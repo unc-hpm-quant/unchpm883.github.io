@@ -1,4 +1,4 @@
-# unchpm883.github.io
+# Advanced Quantitative Methods in Health Policy and Management
 #### UNC HPM 883 2025 Spring
 
 Instructors
