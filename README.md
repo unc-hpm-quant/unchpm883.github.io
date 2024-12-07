@@ -20,7 +20,7 @@ Class Websites
 * Canvas page [here](https://canvas.unc.edu/) See it for class lists, Zoom links, and announcements.
 * GitHub Classroom  [here](https://classroom.github.com/classrooms/128099677-hpm-883).
 * Gradescope [here](https://www.gradescope.com/)  See it for assignments.
-* Slack - We have a Slack workspace for the course which you should use to communicate both with us as instructors, and with your fellow students. You can sign up via this link [here](https://slack.com/)
+* Slack - We have a Slack workspace for the course which you should use to communicate both with us as instructors, and with your fellow students. You can sign up via this link [here](https://join.slack.com/t/hpm883/shared_invite/zt-2vvlfml0i-9_LL6M_rz416NeDMZT4Gqw)
 
 
 
