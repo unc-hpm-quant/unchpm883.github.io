@@ -26,40 +26,40 @@ Class Websites
 
 ## Quick links to topics
 
-| Class Session | Date      | Instructor | Topic |
+| Class Session | Date      | Instructor | Topic || Assignment Due |
 |:-------------:|:----------|:-----------|:------|
-|       1       | Wed, Jan 8  | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       2       | Mon, Jan 13 | SH         | TBD|
-|       3       | Wed, Jan 15 | SH         | TBD|
-|   No Class    | Mon, Jan 20 | //         | TBD|
-|       4       | Wed, Jan 22 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       5       | Mon, Jan 27 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       6       | Wed, Jan 29 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       7       | Mon, Feb 3  | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       8       | Wed, Feb 5  | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|   No Class    | Mon, Feb 10 | //         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       9       | Wed, Feb 12 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       10      | Mon, Feb 17 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       11      | Wed, Feb 19 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       12      | Mon, Feb 24 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       13      | Wed, Feb 26 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       14      | Mon, Mar 3  | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       15      | Wed, Mar 5  | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|   No Class    | Mon, Mar 10 | //         | [Overview and introduction to Machine Learning](#1-overview-and-introduction-to-Experimental-Design) |
-|   No Class    | Wed, Mar 12 | //         | [Overview and introduction to Machine Learning](#1-overview-and-introduction-to-Experimental-Design) |
-|       16      | Mon, Mar 17 | SS         | [Overview and introduction to Machine Learning](#1-overview-and-introduction-to-Experimental-Design) |
-|       17      | Wed, Mar 19 | SS         | [Overview and introduction to Machine Learning](#1-overview-and-introduction-to-Experimental-Design) |
-|       18      | Mon, Mar 24 | SS         | [Overview and introduction to Machine Learning](#1-overview-and-introduction-to-Experimental-Design) |
-|       19      | Wed, Mar 26 | SS         | [Overview and introduction to Machine Learning](#1-overview-and-introduction-to-Experimental-Design) |
-|       20      | Mon, Mar 31 | SS         | [Overview and introduction to Machine Learning](#1-overview-and-introduction-to-Experimental-Design) |
-|       21      | Wed, Apr 2  | SS         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       22      | Mon, Apr 7  | SS         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       23      | Wed, Apr 9  | SS         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       24      | Mon, Apr 14 | SS         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       25      | Wed, Apr 16 | SS         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       26      | Mon, Apr 21 | SS         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) |
-|       27      | Wed, Apr 23 | SS         | TBD|
-|       28      | Mon, Apr 28 | SS         | Course Wrap-up |
+|       1       | Wed, Jan 8  | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       2       | Mon, Jan 13 | SH         | TBD||  |
+|       3       | Wed, Jan 15 | SH         | TBD||  |
+|   No Class    | Mon, Jan 20 | //         | TBD||  |
+|       4       | Wed, Jan 22 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) | |  |
+|       5       | Mon, Jan 27 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       6       | Wed, Jan 29 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       7       | Mon, Feb 3  | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       8       | Wed, Feb 5  | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|   No Class    | Mon, Feb 10 | //         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       9       | Wed, Feb 12 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       10      | Mon, Feb 17 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       11      | Wed, Feb 19 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       12      | Mon, Feb 24 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       13      | Wed, Feb 26 | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       14      | Mon, Mar 3  | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       15      | Wed, Mar 5  | SH         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|   No Class    | Mon, Mar 10 | //         | [Overview and introduction to Machine Learning](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|   No Class    | Wed, Mar 12 | //         | [Overview and introduction to Machine Learning](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       16      | Mon, Mar 17 | SS         | [Overview and introduction to Machine Learning](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       17      | Wed, Mar 19 | SS         | [Overview and introduction to Machine Learning](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       18      | Mon, Mar 24 | SS         | [Overview and introduction to Machine Learning](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       19      | Wed, Mar 26 | SS         | [Overview and introduction to Machine Learning](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       20      | Mon, Mar 31 | SS         | [Overview and introduction to Machine Learning](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       21      | Wed, Apr 2  | SS         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       22      | Mon, Apr 7  | SS         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       23      | Wed, Apr 9  | SS         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       24      | Mon, Apr 14 | SS         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       25      | Wed, Apr 16 | SS         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       26      | Mon, Apr 21 | SS         | [Overview and introduction to Experimental Design](#1-overview-and-introduction-to-Experimental-Design) ||  |
+|       27      | Wed, Apr 23 | SS         | TBD||  |
+|       28      | Mon, Apr 28 | SS         | Course Wrap-up ||  |
 
 
 
